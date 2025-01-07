@@ -12,10 +12,10 @@ const ContactInfo = () => {
             data-aos-duration="500"
             data-aos-delay="300"
           >
-            My <span className="text-[#12867F]">Contact Info</span>
+            My <span className="text-[#12867F] font-patua_one">Contact Info</span>
           </h2>
           <p
-            className="text-lg sm:text-xl text-[#4E635C] max-w-xl mx-auto"
+            className="text-lg sm:text-xl text-[#4E635C] font-patua_one max-w-xl mx-auto"
             data-aos="fade-up"
             data-aos-duration="500"
             data-aos-delay="400"
@@ -33,8 +33,8 @@ const ContactInfo = () => {
            data-aos-delay="400"
           >
             <IoCall className="text-4xl text-[#12867F] mb-4" />
-            <h3 className="text-xl font-semibold text-[#4E635C] mb-2">Phone</h3>
-            <p className="text-[#4E635C]">+123 456 7890</p>
+            <h3 className="text-xl font-semibold text-[#4E635C] mb-2 font-patua_one">Phone</h3>
+            <a href="tel:09217422647"><p className="text-[#4E635C] font-patua_one">09217422647</p></a>
           </div>
           {/* Email */}
           <div className="flex flex-col items-center text-center bg-white shadow-lg rounded-lg p-6"
@@ -43,8 +43,8 @@ const ContactInfo = () => {
            data-aos-delay="400"
           >
             <IoMail className="text-4xl text-[#12867F] mb-4" />
-            <h3 className="text-xl font-semibold text-[#4E635C] mb-2">Email</h3>
-            <p className="text-[#4E635C]">example@email.com</p>
+            <h3 className="text-xl font-semibold text-[#4E635C] mb-2 font-patua_one">Email</h3>
+            <a href="mailto:rheylaurencebuday@gmail.com"><p className="text-[#4E635C] font-patua_one">rheylaurencebuday@gmail.com</p></a>
           </div>
           {/* Address */}
           <div className="flex flex-col items-center text-center bg-white shadow-lg rounded-lg p-6"
@@ -53,8 +53,8 @@ const ContactInfo = () => {
            data-aos-delay="400"
           >
             <IoLocationSharp className="text-4xl text-[#12867F] mb-4" />
-            <h3 className="text-xl font-semibold text-[#4E635C] mb-2">Address</h3>
-            <p className="text-[#4E635C]">123 Main Street, City, Country</p>
+            <h3 className="text-xl font-semibold text-[#4E635C] mb-2 font-patua_one">Address</h3>
+            <p className="text-[#4E635C] font-patua_one">1 Janet St Ext, Tandang Sora Banlat, Quezon City</p>
           </div>
         </div>
       </div>
