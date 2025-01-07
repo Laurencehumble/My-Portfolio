@@ -20,9 +20,7 @@ const ContactInfo = () => {
             data-aos-duration="500"
             data-aos-delay="400"
           >
-            I’m a web developer willing to learn from your company, creating
-            website designs, and specializing in frontend and backend
-            development.
+           Get in touch with me for job opportunities or to discuss how I can contribute to your team. I’m eager to bring my skills and expertise to your projects.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
