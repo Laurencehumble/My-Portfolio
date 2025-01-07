@@ -59,9 +59,7 @@ const Skill = () => {
             data-aos-duration="500"
             data-aos-delay="400"
           >
-            I’m a web developer willing to learn from your company, creating
-            website designs, and specializing in frontend and backend
-            development.
+            I focus on building and designing reliable e-commerce websites, using modern tools and frameworks to create smooth and visually engaging user experiences.
           </p>
         </div>
 
