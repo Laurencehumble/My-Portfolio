@@ -54,7 +54,7 @@ const Skill = () => {
             My <span className="text-[#12867F]">Skills</span>
           </h2>
           <p
-            className="text-lg sm:text-xl text-[#4E635C] max-w-xl mx-auto"
+            className="text-lg sm:text-xl text-[#4E635C] font-patua_one max-w-xl mx-auto"
             data-aos="fade-up"
             data-aos-duration="500"
             data-aos-delay="400"
@@ -124,7 +124,7 @@ const Skill = () => {
                     textSize: "14px",
                   })}
                 />
-                <p className="mt-2 font-medium text-[#4E635C]">{skill.name}</p>
+                <p className="mt-2 font-medium text-[#4E635C] font-patua_one">{skill.name}</p>
               </div>
             ))}
           </div>
