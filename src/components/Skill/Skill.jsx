@@ -5,8 +5,8 @@ import "react-circular-progressbar/dist/styles.css";
 
 const skills = [
   { name: "Creativity", percentage: 80 },
-  { name: "Communication", percentage: 65 },
-  { name: "Problem Solving", percentage: 75 },
+  { name: "Communication", percentage: 75 },
+  { name: "Problem Solving", percentage: 80 },
   { name: "Teamwork", percentage: 85 },
 ];
 
