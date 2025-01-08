@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="container flex flex-col sm:flex-row justify-between items-center px-4 sm:px-6 lg:px-8">
         {/* Title */}
         <div className="mb-4 sm:mb-0">
-          <h1 className="font-normal text-2xl font-patua_one underline flex items-center">
+          <a href="#" className="font-normal text-2xl font-patua_one underline flex items-center">
             Portfolio
-          </h1>
+          </a>
         </div>
 
         {/* Navigation Links */}
