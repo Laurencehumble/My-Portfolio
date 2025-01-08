@@ -5,17 +5,17 @@ const Menu = [
   {
     id: 1,
     name: "Project",
-    link: "/#",
+    link: "/#projects",
   },
   {
     id: 2,
     name: "Skill",
-    link: "/#",
+    link: "/#skills",
   },
   {
     id: 3,
     name: "Contact",
-    link: "/#",
+    link: "/#contact",
   },
 ];
 

@@ -26,13 +26,12 @@ const Project = () => {
             <span className="text-[#12867F] font-bold">My Project</span>
           </h2>
           <p
-            className="text-lg sm:text-xl text-[#4E635C] max-w-3xl mx-auto"
+            className="text-lg sm:text-xl text-[#4E635C] max-w-3xl mx-auto font-patua_one"
             data-aos="fade-up"
             data-aos-duration="500"
             data-aos-delay="400"
           >
-            I’m a web developer willing to learn from your company. Creating
-            website designs, Frontend, and Backend development...
+            I’m a web developer skilled in creating innovative e-commerce platforms, interactive tools, and engaging web experiences. I strive to blend creativity with functionality in every project.
           </p>
         </div>
 

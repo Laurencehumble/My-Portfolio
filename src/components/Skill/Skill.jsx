@@ -54,14 +54,12 @@ const Skill = () => {
             My <span className="text-[#12867F]">Skills</span>
           </h2>
           <p
-            className="text-lg sm:text-xl text-[#4E635C] max-w-xl mx-auto"
+            className="text-lg sm:text-xl text-[#4E635C] font-patua_one max-w-xl mx-auto"
             data-aos="fade-up"
             data-aos-duration="500"
             data-aos-delay="400"
           >
-            I’m a web developer willing to learn from your company, creating
-            website designs, and specializing in frontend and backend
-            development.
+            I focus on building and designing reliable e-commerce websites, using modern tools and frameworks to create smooth and visually engaging user experiences.
           </p>
         </div>
 
@@ -124,7 +122,7 @@ const Skill = () => {
                     textSize: "14px",
                   })}
                 />
-                <p className="mt-2 font-medium text-[#4E635C]">{skill.name}</p>
+                <p className="mt-2 font-medium text-[#4E635C] font-patua_one">{skill.name}</p>
               </div>
             ))}
           </div>
