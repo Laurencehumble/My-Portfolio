@@ -49,7 +49,7 @@ const Project = () => {
             { img: Proj4, name: "Branch Locator", link: "https://map-locator-khaki.vercel.app/" },
             { img: Proj5, name: "Tile Visualizer", link: "https://laurencehumble.github.io/fc-tile-visualizer/" },
             { img: Proj6, name: "Virtual Reality UI/UX", link: "https://www.figma.com/proto/KLVPOnbngfJ3Uin1Ofv8tM/Untitled" },
-            { img: Proj7, name: "Ecommerce UI/UX", link: "https://www.figma.com/proto/MiV6NKWqZg7AgFnOmKIXY0/Ecommerce-Website-Practice-3" },
+            { img: Proj7, name: "Ecommerce UI/UX", link: "https://www.figma.com/proto/MiV6NKWqZg7AgFnOmKIXY0/Ecommerce-Website-Practice-3?page-id=1%3A3301&node-id=1-3302&viewport=454%2C199%2C0.2&t=2DAuzYb3waIRZDg3-1&scaling=min-zoom&content-scaling=fixed" },
 	    { img: Proj8, name: "Couply UI/UX", link: "https://www.figma.com/proto/GarSwKhHbC6iiDzsjfBR42/Practice-2?page-id=0%3A1&node-id=1-2&node-type=CANVAS&viewport=868%2C393%2C0.24&t=6jvEBbk4ZHAddSex-1&scaling=scale-down&content-scaling=fixed" },
 	    { img: Proj9, name: "Friskay UI/UX", link: "https://www.figma.com/proto/DbYpCI7emBFMcunWfuppIy/Practice-1?page-id=1%3A2&node-id=303-241&node-type=FRAME&viewport=912%2C337%2C0.67&t=oMjmBCpyg6EUiu7m-1&scaling=min-zoom&content-scaling=fixed" },
 	    { img: Proj10, name: "Tile Depot UI/UX", link: "https://www.figma.com/proto/yHTKubb9rWR6UcZiulaTKv/DESIGN-SYSTEM-FC?page-id=279%3A2127&node-id=5322-9274&viewport=-22051%2C1083%2C0.84&t=MnOsqUYDH6GuNLXB-1&scaling=min-zoom&starting-point-node-id=2207%3A24924&content-scaling=fixed" },
